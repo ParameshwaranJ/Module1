@@ -26,9 +26,10 @@ print("c:",c)
 print("d:",d)
 
 ## Output
-a is False
-b is True
-c: 2
-d: 9
+<img width="368" height="274" alt="Screenshot 2025-10-21 070456" src="https://github.com/user-attachments/assets/6865e6db-cc61-4f46-bd53-4aa0bdc2ea0f" />
+
+
+
+
 ## Result
 To write a Python program that evaluates and prints the results of boolean and arithmetic expressions involving `True` and `False` has been done and output is drawn successfully.
