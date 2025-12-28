@@ -13,7 +13,12 @@ To write a Python program that reads two integers, creates a complex number usin
 
 ## 💻 Program
 Add Code Here
-
+a=int(input())
+b=int(input())
+print(complex(a,b))
 ## Output
-
+14
+20
+(14+20j)
 ## Result
+To write a Python program that reads two integers, creates a complex number using them, and then prints the complex number along with its real and imaginary parts has been done and output is drawn successfully.
